@@ -1,0 +1,181 @@
+G:\Anjali\HOSPITALMNAGEMENT\HOSPITALMNAGEMENT\bin\Debug\HOSPITALMNAGEMENT.exe.config
+G:\Anjali\HOSPITALMNAGEMENT\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.exe
+G:\Anjali\HOSPITALMNAGEMENT\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.xml
+G:\Anjali\HOSPITALMNAGEMENT\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.pdb
+G:\Anjali\HOSPITALMNAGEMENT\HOSPITALMNAGEMENT\bin\Debug\HOSPITALMNAGEMENT.exe
+G:\Anjali\HOSPITALMNAGEMENT\HOSPITALMNAGEMENT\bin\Debug\HOSPITALMNAGEMENT.pdb
+G:\Anjali\HOSPITALMNAGEMENT\HOSPITALMNAGEMENT\bin\Debug\HOSPITALMNAGEMENT.xml
+G:\Anjali\HOSPITALMNAGEMENT\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.vbprojResolveAssemblyReference.cache
+G:\Anjali\HOSPITALMNAGEMENT\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.DoctorReports.resources
+G:\Anjali\HOSPITALMNAGEMENT\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.For1.resources
+G:\Anjali\HOSPITALMNAGEMENT\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.LoginForm1.resources
+G:\Anjali\HOSPITALMNAGEMENT\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.Mail.resources
+G:\Anjali\HOSPITALMNAGEMENT\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.MobileNumber.resources
+G:\Anjali\HOSPITALMNAGEMENT\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.NewUser.resources
+G:\Anjali\HOSPITALMNAGEMENT\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.Patients.resources
+G:\Anjali\HOSPITALMNAGEMENT\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.staff_search.resources
+G:\Anjali\HOSPITALMNAGEMENT\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.staffinfo.resources
+G:\Anjali\HOSPITALMNAGEMENT\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.MyForm.resources
+G:\Anjali\HOSPITALMNAGEMENT\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.PatientRegistration.resources
+G:\Anjali\HOSPITALMNAGEMENT\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.searchpatient.resources
+G:\Anjali\HOSPITALMNAGEMENT\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.roominfo.resources
+G:\Anjali\HOSPITALMNAGEMENT\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.patchekout.resources
+G:\Anjali\HOSPITALMNAGEMENT\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.Form4.resources
+G:\Anjali\HOSPITALMNAGEMENT\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.Doctorinfo.resources
+G:\Anjali\HOSPITALMNAGEMENT\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.MDIForm.resources
+G:\Anjali\HOSPITALMNAGEMENT\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.Resources.resources
+G:\Anjali\HOSPITALMNAGEMENT\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.Registration.resources
+G:\Anjali\HOSPITALMNAGEMENT\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.ViewAllPatientInfo.resources
+G:\Anjali\HOSPITALMNAGEMENT\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.vbproj.GenerateResource.Cache
+G:\Anjali\HOSPITALMNAGEMENT\HOSPITALMNAGEMENT\obj\Debug\RdlCompile.cache
+G:\Anjali\HOSPITALMNAGEMENT\HOSPITALMNAGEMENT\obj\Debug\RdlCompile.compiled
+F:\DCN unit 1\HOSPITALMNAGEMENT\bin\Debug\HOSPITALMNAGEMENT.exe.config
+F:\DCN unit 1\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.exe
+F:\DCN unit 1\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.xml
+F:\DCN unit 1\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.pdb
+F:\DCN unit 1\HOSPITALMNAGEMENT\bin\Debug\HOSPITALMNAGEMENT.exe
+F:\DCN unit 1\HOSPITALMNAGEMENT\bin\Debug\HOSPITALMNAGEMENT.pdb
+F:\DCN unit 1\HOSPITALMNAGEMENT\bin\Debug\HOSPITALMNAGEMENT.xml
+F:\DCN unit 1\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.vbprojResolveAssemblyReference.cache
+F:\DCN unit 1\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.DoctorReports.resources
+F:\DCN unit 1\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.For1.resources
+F:\DCN unit 1\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.LoginForm1.resources
+F:\DCN unit 1\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.Mail.resources
+F:\DCN unit 1\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.NewUser.resources
+F:\DCN unit 1\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.Patients.resources
+F:\DCN unit 1\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.staff_search.resources
+F:\DCN unit 1\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.staffinfo.resources
+F:\DCN unit 1\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.MyForm.resources
+F:\DCN unit 1\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.PatientRegistration.resources
+F:\DCN unit 1\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.searchpatient.resources
+F:\DCN unit 1\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.roominfo.resources
+F:\DCN unit 1\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.patchekout.resources
+F:\DCN unit 1\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.Form4.resources
+F:\DCN unit 1\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.Doctorinfo.resources
+F:\DCN unit 1\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.MDIForm.resources
+F:\DCN unit 1\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.Resources.resources
+F:\DCN unit 1\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.Registration.resources
+F:\DCN unit 1\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.ViewAllPatientInfo.resources
+F:\DCN unit 1\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.vbproj.GenerateResource.Cache
+F:\DCN unit 1\HOSPITALMNAGEMENT\obj\Debug\RdlCompile.cache
+F:\DCN unit 1\HOSPITALMNAGEMENT\obj\Debug\RdlCompile.compiled
+F:\DCN unit 1\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.Calculator.resources
+F:\DCN unit 1\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.userinfo.resources
+I:\hospitalmanagement\HOSPITALMNAGEMENT\bin\Debug\HOSPITALMNAGEMENT.exe.config
+I:\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.exe
+I:\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.xml
+I:\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.pdb
+I:\hospitalmanagement\HOSPITALMNAGEMENT\bin\Debug\HOSPITALMNAGEMENT.exe
+I:\hospitalmanagement\HOSPITALMNAGEMENT\bin\Debug\HOSPITALMNAGEMENT.pdb
+I:\hospitalmanagement\HOSPITALMNAGEMENT\bin\Debug\HOSPITALMNAGEMENT.xml
+I:\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.vbprojResolveAssemblyReference.cache
+I:\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.DoctorReports.resources
+I:\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.For1.resources
+I:\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.LoginForm1.resources
+I:\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.Mail.resources
+I:\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.Calculator.resources
+I:\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.NewUser.resources
+I:\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.Patients.resources
+I:\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.staff_search.resources
+I:\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.staffinfo.resources
+I:\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.MyForm.resources
+I:\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.PatientRegistration.resources
+I:\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.searchpatient.resources
+I:\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.roominfo.resources
+I:\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.patchekout.resources
+I:\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.Form4.resources
+I:\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.Doctorinfo.resources
+I:\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.MDIForm.resources
+I:\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.Resources.resources
+I:\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.Registration.resources
+I:\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.userinfo.resources
+I:\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.ViewAllPatientInfo.resources
+I:\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.vbproj.GenerateResource.Cache
+I:\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\RdlCompile.cache
+I:\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\RdlCompile.compiled
+C:\Users\Anjali Rani\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\bin\Debug\HOSPITALMNAGEMENT.exe.config
+C:\Users\Anjali Rani\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.exe
+C:\Users\Anjali Rani\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.xml
+C:\Users\Anjali Rani\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.pdb
+C:\Users\Anjali Rani\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.vbprojResolveAssemblyReference.cache
+C:\Users\Anjali Rani\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.DoctorReports.resources
+C:\Users\Anjali Rani\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.For1.resources
+C:\Users\Anjali Rani\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.LoginForm1.resources
+C:\Users\Anjali Rani\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.Mail.resources
+C:\Users\Anjali Rani\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.Calculator.resources
+C:\Users\Anjali Rani\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.NewUser.resources
+C:\Users\Anjali Rani\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.Patients.resources
+C:\Users\Anjali Rani\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.staff_search.resources
+C:\Users\Anjali Rani\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.staffinfo.resources
+C:\Users\Anjali Rani\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.MyForm.resources
+C:\Users\Anjali Rani\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.PatientRegistration.resources
+C:\Users\Anjali Rani\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.searchpatient.resources
+C:\Users\Anjali Rani\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.roominfo.resources
+C:\Users\Anjali Rani\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.patchekout.resources
+C:\Users\Anjali Rani\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.Form4.resources
+C:\Users\Anjali Rani\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.Doctorinfo.resources
+C:\Users\Anjali Rani\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.MDIForm.resources
+C:\Users\Anjali Rani\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.Resources.resources
+C:\Users\Anjali Rani\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.Registration.resources
+C:\Users\Anjali Rani\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.userinfo.resources
+C:\Users\Anjali Rani\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.ViewAllPatientInfo.resources
+C:\Users\Anjali Rani\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.vbproj.GenerateResource.Cache
+C:\Users\Anjali Rani\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\RdlCompile.cache
+C:\Users\Anjali Rani\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\RdlCompile.compiled
+C:\Users\Anjali Rani\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\bin\Debug\HOSPITALMNAGEMENT.exe
+C:\Users\Anjali Rani\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\bin\Debug\HOSPITALMNAGEMENT.pdb
+C:\Users\Anjali Rani\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\bin\Debug\HOSPITALMNAGEMENT.xml
+F:\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.vbprojAssemblyReference.cache
+F:\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.DoctorReports.resources
+F:\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.For1.resources
+F:\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.LoginForm1.resources
+F:\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.Mail.resources
+F:\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.Calculator.resources
+F:\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.NewUser.resources
+F:\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.Patients.resources
+F:\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.staff_search.resources
+F:\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.staffinfo.resources
+F:\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.MyForm.resources
+F:\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.PatientRegistration.resources
+F:\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.searchpatient.resources
+F:\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.roominfo.resources
+F:\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.patchekout.resources
+F:\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.Form4.resources
+F:\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.Doctorinfo.resources
+F:\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.MDIForm.resources
+F:\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.Resources.resources
+F:\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.Registration.resources
+F:\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.userinfo.resources
+F:\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.ViewAllPatientInfo.resources
+F:\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.vbproj.GenerateResource.cache
+F:\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.vbproj.CoreCompileInputs.cache
+F:\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.exe
+F:\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.xml
+F:\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.pdb
+D:\Library\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.vbprojAssemblyReference.cache
+D:\Library\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.DoctorReports.resources
+D:\Library\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.For1.resources
+D:\Library\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.LoginForm1.resources
+D:\Library\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.Mail.resources
+D:\Library\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.Calculator.resources
+D:\Library\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.NewUser.resources
+D:\Library\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.Patients.resources
+D:\Library\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.staff_search.resources
+D:\Library\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.staffinfo.resources
+D:\Library\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.MyForm.resources
+D:\Library\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.PatientRegistration.resources
+D:\Library\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.searchpatient.resources
+D:\Library\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.roominfo.resources
+D:\Library\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.patchekout.resources
+D:\Library\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.Form4.resources
+D:\Library\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.Doctorinfo.resources
+D:\Library\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.MDIForm.resources
+D:\Library\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.Resources.resources
+D:\Library\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.Registration.resources
+D:\Library\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.userinfo.resources
+D:\Library\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.ViewAllPatientInfo.resources
+D:\Library\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.vbproj.GenerateResource.cache
+D:\Library\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.vbproj.CoreCompileInputs.cache
+D:\Library\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.exe
+D:\Library\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.xml
+D:\Library\Desktop\hospitalmanagement\HOSPITALMNAGEMENT\obj\Debug\HOSPITALMNAGEMENT.pdb

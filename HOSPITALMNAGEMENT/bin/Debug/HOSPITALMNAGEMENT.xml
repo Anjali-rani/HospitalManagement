@@ -1,0 +1,512 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+HOSPITALMNAGEMENT
+</name>
+</assembly>
+<members>
+<member name="T:HOSPITALMNAGEMENT.Doctors.DataTable1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.Doctors.DataTable1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.Doctors.DataTable1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.Doctors">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.HospitalDBDataSet.PatientinfoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.HospitalDBDataSet.Table_1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.HospitalDBDataSet.tblAddPatientDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.HospitalDBDataSet.PatientinfoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.HospitalDBDataSet.Table_1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.HospitalDBDataSet.tblAddPatientRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.HospitalDBDataSet.PatientinfoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.HospitalDBDataSet.Table_1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.HospitalDBDataSet.tblAddPatientRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.HospitalDBDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.HospitalDBDataSetTableAdapters.PatientinfoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.HospitalDBDataSetTableAdapters.Table_1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.HospitalDBDataSetTableAdapters.tblAddPatientTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:HOSPITALMNAGEMENT.HospitalDBDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(HOSPITALMNAGEMENT.HospitalDBDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:HOSPITALMNAGEMENT.HospitalDBDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(HOSPITALMNAGEMENT.HospitalDBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:HOSPITALMNAGEMENT.HospitalDBDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(HOSPITALMNAGEMENT.HospitalDBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:HOSPITALMNAGEMENT.HospitalDBDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:HOSPITALMNAGEMENT.HospitalDBDataSetTableAdapters.TableAdapterManager.UpdateAll(HOSPITALMNAGEMENT.HospitalDBDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.HospitalDBDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.HospitalDBDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.HospitalDBDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.HospitalManagementdbDataSet1.AddwardDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.HospitalManagementdbDataSet1.docinforDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.HospitalManagementdbDataSet1.patientchekoutDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.HospitalManagementdbDataSet1.patientinforDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.HospitalManagementdbDataSet1.patientregisDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.HospitalManagementdbDataSet1.staffinfoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.HospitalManagementdbDataSet1.tblregisterDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.HospitalManagementdbDataSet1.AddwardRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.HospitalManagementdbDataSet1.docinforRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.HospitalManagementdbDataSet1.patientchekoutRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.HospitalManagementdbDataSet1.patientinforRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.HospitalManagementdbDataSet1.patientregisRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.HospitalManagementdbDataSet1.staffinfoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.HospitalManagementdbDataSet1.tblregisterRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.HospitalManagementdbDataSet1.AddwardRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.HospitalManagementdbDataSet1.docinforRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.HospitalManagementdbDataSet1.patientchekoutRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.HospitalManagementdbDataSet1.patientinforRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.HospitalManagementdbDataSet1.patientregisRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.HospitalManagementdbDataSet1.staffinfoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.HospitalManagementdbDataSet1.tblregisterRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.HospitalManagementdbDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.HospitalManagementdbDataSet1TableAdapters.AddwardTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.HospitalManagementdbDataSet1TableAdapters.docinforTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.HospitalManagementdbDataSet1TableAdapters.patientchekoutTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.HospitalManagementdbDataSet1TableAdapters.patientinforTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.HospitalManagementdbDataSet1TableAdapters.patientregisTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.HospitalManagementdbDataSet1TableAdapters.staffinfoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.HospitalManagementdbDataSet1TableAdapters.tblregisterTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:HOSPITALMNAGEMENT.HospitalManagementdbDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(HOSPITALMNAGEMENT.HospitalManagementdbDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:HOSPITALMNAGEMENT.HospitalManagementdbDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(HOSPITALMNAGEMENT.HospitalManagementdbDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:HOSPITALMNAGEMENT.HospitalManagementdbDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(HOSPITALMNAGEMENT.HospitalManagementdbDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:HOSPITALMNAGEMENT.HospitalManagementdbDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:HOSPITALMNAGEMENT.HospitalManagementdbDataSet1TableAdapters.TableAdapterManager.UpdateAll(HOSPITALMNAGEMENT.HospitalManagementdbDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.HospitalManagementdbDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.HospitalManagementdbDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.HospitalManagementdbDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.Patientchekout.DataTable1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.Patientchekout.DataTable1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.Patientchekout.DataTable1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.Patientchekout">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.HospitalManagementdbDataSet.patientregisDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.HospitalManagementdbDataSet.patientregisRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.HospitalManagementdbDataSet.patientregisRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.HospitalManagementdbDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.HospitalManagementdbDataSetTableAdapters.patientregisTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:HOSPITALMNAGEMENT.HospitalManagementdbDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(HOSPITALMNAGEMENT.HospitalManagementdbDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:HOSPITALMNAGEMENT.HospitalManagementdbDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(HOSPITALMNAGEMENT.HospitalManagementdbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:HOSPITALMNAGEMENT.HospitalManagementdbDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(HOSPITALMNAGEMENT.HospitalManagementdbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:HOSPITALMNAGEMENT.HospitalManagementdbDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:HOSPITALMNAGEMENT.HospitalManagementdbDataSetTableAdapters.TableAdapterManager.UpdateAll(HOSPITALMNAGEMENT.HospitalManagementdbDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.HospitalManagementdbDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.HospitalManagementdbDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.HospitalManagementdbDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:HOSPITALMNAGEMENT.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:HOSPITALMNAGEMENT.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:HOSPITALMNAGEMENT.My.Resources.Resources._1013">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HOSPITALMNAGEMENT.My.Resources.Resources._10131">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HOSPITALMNAGEMENT.My.Resources.Resources._10132">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HOSPITALMNAGEMENT.My.Resources.Resources._10133">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HOSPITALMNAGEMENT.My.Resources.Resources._10134">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HOSPITALMNAGEMENT.My.Resources.Resources._17177194_Medical_blue_background_with_ekg_heartbeat_pattern_Stock_Vector">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HOSPITALMNAGEMENT.My.Resources.Resources._4309439_vector_glossy_medical_web_icon_design_element_on_a_blue_background">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HOSPITALMNAGEMENT.My.Resources.Resources._55133473_Medical_Staff_Nurse_and_Doctor_Hospital_Medical_Team_Health_Care_Medicine_Professional_Medical_Conce_Stock_Vector">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HOSPITALMNAGEMENT.My.Resources.Resources._9035045_Blue_heart_beat_Ekg_graph__Stock_Vector_heartbeat_line_blue">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HOSPITALMNAGEMENT.My.Resources.Resources.admin_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HOSPITALMNAGEMENT.My.Resources.Resources.banar_1_0">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HOSPITALMNAGEMENT.My.Resources.Resources.banner">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HOSPITALMNAGEMENT.My.Resources.Resources.banner1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HOSPITALMNAGEMENT.My.Resources.Resources.cardio">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HOSPITALMNAGEMENT.My.Resources.Resources.directmail1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HOSPITALMNAGEMENT.My.Resources.Resources.EFHPA_leaflet_picture_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HOSPITALMNAGEMENT.My.Resources.Resources.email_newsletter_going_around_the_world2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HOSPITALMNAGEMENT.My.Resources.Resources.healthcare_background">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HOSPITALMNAGEMENT.My.Resources.Resources.hillcrest_hero">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HOSPITALMNAGEMENT.My.Resources.Resources.HM">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HOSPITALMNAGEMENT.My.Resources.Resources.Hospital_image_NHS_hospital_negligence_claims">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HOSPITALMNAGEMENT.My.Resources.Resources.Hospital_management__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HOSPITALMNAGEMENT.My.Resources.Resources.Hospital_Management_System_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HOSPITALMNAGEMENT.My.Resources.Resources.hospital_ward_beds_medical_equipment_interior_new_empty_room_75224097">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HOSPITALMNAGEMENT.My.Resources.Resources.hospital_ward_beds_medical_equipment_interior_new_empty_room_752240971">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HOSPITALMNAGEMENT.My.Resources.Resources.house_lock_key_insert_door_md_wm">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HOSPITALMNAGEMENT.My.Resources.Resources.id_doctors">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HOSPITALMNAGEMENT.My.Resources.Resources.images">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HOSPITALMNAGEMENT.My.Resources.Resources.images1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HOSPITALMNAGEMENT.My.Resources.Resources.internet_email_world">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HOSPITALMNAGEMENT.My.Resources.Resources.Intranet_Mailing_System">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HOSPITALMNAGEMENT.My.Resources.Resources.isc_products_trakcare_02">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HOSPITALMNAGEMENT.My.Resources.Resources.login_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HOSPITALMNAGEMENT.My.Resources.Resources.medical_patch_icon_cg1p67302526c_th">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HOSPITALMNAGEMENT.My.Resources.Resources.medical_scrubs_960x300">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HOSPITALMNAGEMENT.My.Resources.Resources.Patient_Check_in_Search">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HOSPITALMNAGEMENT.My.Resources.Resources.Patient_Check_in_Search1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HOSPITALMNAGEMENT.My.Resources.Resources.patient_project_slider1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HOSPITALMNAGEMENT.My.Resources.Resources.stock_photo_hospital_ward_with_beds_and_medical_equipment_106279382">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HOSPITALMNAGEMENT.My.Resources.Resources.vhmsworkflow">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HOSPITALMNAGEMENT.My.Resources.Resources.vhmsworkflow1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HOSPITALMNAGEMENT.My.Resources.Resources.vhmsworkflow2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:HOSPITALMNAGEMENT.My.Resources.Resources.web_medical_icon_map_application_over_colourful_background_31024092">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:HOSPITALMNAGEMENT.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

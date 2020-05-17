@@ -1,0 +1,3 @@
+F:\DCN unit 1\HOSPITALMNAGEMENT\obj\Debug\WindowsApplication1.MyForm.resources
+F:\DCN unit 1\HOSPITALMNAGEMENT\obj\Debug\WindowsApplication1.Resources.resources
+F:\DCN unit 1\HOSPITALMNAGEMENT\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
